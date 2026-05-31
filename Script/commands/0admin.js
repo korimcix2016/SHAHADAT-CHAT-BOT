@@ -2,7 +2,7 @@ const { writeFileSync, existsSync } = require("fs-extra");
 const { resolve } = require("path");
 
 module.exports.config = {
-  name: "0admin",
+  name: "Tonmoy cix",
   version: "2.0.0", //don't change credit
   hasPermssion: 2,
   credits: "SHAHADAT SAHU",
